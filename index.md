@@ -1,4 +1,5 @@
 ---
-title: hello world
+layout: default
+title: Home
 ---
-
+hello
